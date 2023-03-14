@@ -1,5 +1,5 @@
 # Sensitivity_Study_Isolated_Grid_Test
-This code is for a grid scaling test of an isolated building condition - the comparative analysis between CFD results and wind tunnel testing outcomes. The example by the Architectural Institute of Japan (AIJ)'s was chosen [1, 2, 3, 4, 5]. The code was created with C++ based on OpenFOAM source (v.9).
+This code is for a grid scaling test of an isolated building condition - the comparative analysis between CFD results and wind tunnel testing outcomes. The example by the Architectural Institute of Japan (AIJ) was chosen [1, 2, 3, 4, 5]. The code was created with C++ based on OpenFOAM source (v.9).
 
 [1] A. Mochida et al., “Comparison of various k-ε models and DSM applied to flow around a high-rise building – report on AIJ cooperative project for CFD prediction of wind environment –,” Wind and Structures 5, no. 2-4 (April 2002): 227-44,
 https://doi.org/10.12989/was.2002.5.2_3_4.227.
